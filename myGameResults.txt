@@ -1,0 +1,42 @@
+The word contains 6 letters.
+******
+You have 10 tries
+Please enter one letter or the full word.semester
+The length of your guess is not the same as the length of the word we're looking for.
+*
+You have 10 tries
+Please enter one letter or the full word.m
+Sorry, that letter is not part of the word
+m*
+You have 9 tries
+Please enter one letter or the full word.c
+Sorry, that letter is not part of the word
+mc*
+You have 8 tries
+Please enter one letter or the full word.g
+Sorry, that letter is not part of the word
+mcg*
+You have 7 tries
+Please enter one letter or the full word.e
+Sorry, that letter is not part of the word
+mcge*
+You have 6 tries
+Please enter one letter or the full word.h
+Well done, that letter exists in the word!
+mcgeh*
+You have 6 tries
+Please enter one letter or the full word.china
+The length of your guess is not the same as the length of the word we're looking for.
+mcgeh*
+You have 6 tries
+Please enter one letter or the full word.p
+Well done, that letter exists in the word!
+mcgehp*
+You have 6 tries
+Please enter one letter or the full word.phython
+The length of your guess is not the same as the length of the word we're looking for.
+mcgehp*
+You have 6 tries
+Please enter one letter or the full word.python
+Well done, you have guessed teh word!
+Would you like to play again? yes/no
